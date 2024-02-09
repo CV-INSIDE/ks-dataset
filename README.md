@@ -32,7 +32,7 @@
 ├── LICENSE
 ├── README.md                            <- The top-level README for developers using this project.
 ├── Datasets                             <- Google Drive
-│  ├── Datasets info.xlsx                     <- Info datasets
+│  ├── Datasets info.xlsx                <- Info datasets
 │  ├── Vincent Estrade
 │     ├── SEC
 │     ├── SUR
