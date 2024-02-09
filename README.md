@@ -2,8 +2,8 @@
 
 ```nohighlight
 ├── LICENSE
-├── README.md                                <- The top-level README for developers using this project.
-├── Datasets                             <- Data from third party sources.
+├── README.md                            <- The top-level README for developers using this project.
+├── Datasets                             <- Google Drive
 │  ├── Vincent Estrade
 │     ├── SEC
 │     ├── SUR
