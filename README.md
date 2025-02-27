@@ -9,7 +9,9 @@
 | Jonathan El-Beze |  Subtype_IVd |  4  |  23 |  27 |
 | Jonathan El-Beze |   Subtype_Va |  48 |  47 |  95 |
 |                  |     TOTAL    | 163 | 246 | 409 |
-|                  |              |     |     |     |
+
+|      Dataset     |    Subtype   | SEC | SUR | MIX |
+|:----------------:|:------------:|:---:|:---:|:---:|
 |      Dataset     |    Subtype   | SEC | SUR | MIX |
 |  Michael Daudon  |   Subtype_Ia |  74 |  50 | 124 |
 |  Michael Daudon  | Subtype_IVa1 |  18 |  17 |  35 |
@@ -18,7 +20,9 @@
 |  Michael Daudon  |  Subtype_IVd |  17 |  43 |  60 |
 |  Michael Daudon  |   Subtype_Va |  11 |  37 |  48 |
 |                  |     TOTAL    | 157 | 208 | 365 |
-|                  |              |     |     |     |
+
+|      Dataset     |    Subtype   | SEC | SUR | MIX |
+|:----------------:|:------------:|:---:|:---:|:---:|
 |      Dataset     |    Subtype   | SEC | SUR | MIX |
 |  Vincent Estrade |   Subtype_Ia |  27 |  30 |  57 |
 |  Vincent Estrade |  Subtype_IIb |  9  |  32 |  41 |
